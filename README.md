@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hey there! I'm Manoj from India
 
-<!--
-**manojbaishya/manojbaishya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web application developer working with microservices and databases  
+🔗 Building and consuming REST APIs
+⚡ Testing application throughput and latency performance  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- ⚙️ **.NET | JavaScript | PostgreSQL**  
+- 🏗 Skilled in **Databases, Operating Systems, Networks, Data Structures, and Algorithms**
+- 💻 Interested in developing Machine Learning applications
+- 📺 Also interested in user interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests  
+- 🛠 **Tool development**, **text search engines**, **data oriented applications**  
+- 🌐 Expanding my knowledge in **REST APIs**  
+- 🤖 Future goal: **Machine Learning application development**  
+- 🎨 Learning **Vue & Nuxt** to build cool UIs  
+
+🔍 Always exploring new tech and optimizing performance!  
+📫 Let's connect and build something awesome!  
