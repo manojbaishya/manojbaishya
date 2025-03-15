@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Manoj from India
+## 👋 Hey there! I'm Manoj
 
 💻 Web application developer working with microservices and databases  
 🔗 Building and consuming REST APIs
