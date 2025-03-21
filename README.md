@@ -12,7 +12,7 @@
 - 💻 Interested in developing Machine Learning applications
 
 ### 🚀 Interests  
-- 🛠 **text search engines**, **data oriented applications**, **tool development**,  
+- 🛠 **data oriented applications**, **tool development**,  etc
 - 🌐 Expanding my knowledge in **REST APIs**  
 - 🤖 Future goal: **Machine Learning application development**
 
