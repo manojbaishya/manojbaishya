@@ -9,12 +9,10 @@
 ### 🛠 Tech Stack
 - ⚙️ **.NET | JavaScript | PostgreSQL**  
 - 🏗 Skilled in **Databases, Operating Systems, Networks, Data Structures, and Algorithms**
-- 💻 Interested in developing Machine Learning applications
 
 ### 🚀 Interests  
-- 🛠 **data oriented applications**, **tool development**,  etc
+- 🛠 **data oriented and machine learning applications**, **server tooling**, **pipelines**, **web development** etc
 - 🌐 Expanding my knowledge in **REST APIs**  
-- 🤖 Future goal: **Machine Learning application development**
 
 🔍 Always exploring new tech and optimizing performance!  
 📫 Let's connect and build something awesome!  
