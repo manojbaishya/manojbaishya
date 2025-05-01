@@ -1,18 +1,19 @@
 ## 👋 Hey there! I'm Manoj
 
-💻 Web application developer working with microservices and databases  
+💻 Software engineer working with microservices and databases.  
 
-🔗 Building and consuming REST APIs
+🛠️ 🏗 Skilled in **Data Structures, Algorithms, Databases, Operating Systems and Networks**
+
+🔗 Building and consuming performant and scalable systems
 
 ⚡ Testing application throughput and latency performance  
 
 ### 🛠 Tech Stack
-- ⚙️ **.NET | JavaScript | PostgreSQL**  
-- 🏗 Skilled in **Databases, Operating Systems, Networks, Data Structures, and Algorithms**
+- ⚙️ **Java | JavaScript | PostgreSQL**  
 
 ### 🚀 Interests  
-- 🛠 **data oriented and machine learning applications**, **server tooling**, **pipelines**, **web development** etc
-- 🌐 Expanding my knowledge in **REST APIs**  
+- 🛠 **data oriented business applications**, **server tooling**, **pipelines** etc
+- 🌐 Expanding my knowledge in **REST APIs**, **Java**, **Algorithms**, **System Design**
 
-🔍 Always exploring new tech and optimizing performance!  
-📫 Let's connect and build something awesome!  
+🔍 Always exploring ways to optimize performance, scale and stability!
+📫 Let's connect and build something awesome!
