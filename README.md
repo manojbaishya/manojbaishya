@@ -14,7 +14,7 @@
 - **Java | JavaScript | PostgreSQL**  
 
 ### 🚀 Interests  
-- **data oriented business applications**, **server tooling**, **pipelines** etc
+- **business and data applications**, **server tooling**, **pipelines** etc
 - Expanding my knowledge in **REST APIs**, **Java**, **Algorithms**, **System Design**
 
 🔍 Always exploring ways to optimize performance, scale and stability!
