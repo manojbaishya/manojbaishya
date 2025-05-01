@@ -4,7 +4,9 @@
 
 🛠️ Skilled in **Data Structures, Algorithms, Databases, Operating Systems and Networks**
 
-🔗 Building and consuming performant and scalable systems
+🔗 Building performant and scalable systems
+
+☕️ Consuming REST APIs to do useful stuff
 
 ⚡ Testing application throughput and latency performance  
 
