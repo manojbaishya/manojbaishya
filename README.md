@@ -2,7 +2,7 @@
 
 💻 Software engineer working with microservices and databases.  
 
-🛠️ 🏗 Skilled in **Data Structures, Algorithms, Databases, Operating Systems and Networks**
+🛠️ Skilled in **Data Structures, Algorithms, Databases, Operating Systems and Networks**
 
 🔗 Building and consuming performant and scalable systems
 
