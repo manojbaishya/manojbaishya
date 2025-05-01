@@ -15,7 +15,7 @@
 
 ### 🚀 Interests  
 - **business and data applications**, **server tooling**, **pipelines** etc
-- Expanding my knowledge in **REST APIs**, **Java**, **Algorithms**, **System Design**
+- Expanding my knowledge in **REST APIs**, **Java**, **Spring Boot**, **Algorithms**, **System Design**
 
 🔍 Always exploring ways to optimize performance, scale and stability!
 📫 Let's connect and build something awesome!
