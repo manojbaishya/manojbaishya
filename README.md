@@ -10,7 +10,7 @@
 
 ⚡ Testing application throughput and latency performance  
 
-### 🛠 Tech Stack
+### 🛠 Skills
 - **Java | .NET | JavaScript | PostgreSQL**  
 
 ### 🚀 Interests  
