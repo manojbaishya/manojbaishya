@@ -2,13 +2,11 @@
 
 💻 Software engineer working with microservices and databases.  
 
-🛠️ Skilled in **Data Structures, Algorithms, Databases, Operating Systems and Networks**
-
 🔗 Building performant and scalable systems
 
 ☕️ Building and consuming REST APIs to do useful stuff
 
-⚡ Testing application throughput and latency performance  
+⚡ Testing application throughput and latency performance
 
 ### 🛠 Skills
 - **Java | .NET | JavaScript | PostgreSQL**  
