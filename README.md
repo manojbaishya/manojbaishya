@@ -14,8 +14,8 @@
 - **Java | .NET | JavaScript | PostgreSQL**  
 
 ### 🚀 Interests  
-- **business and data applications**, **server tooling**, **pipelines** etc
-- Expanding my knowledge in **REST APIs**, **Java**, **Spring Boot**, **Algorithms**, **System Design**
+- **business and data applications**, **server tooling**, **pipelines**, etc.
+- Expanding my knowledge in **REST APIs**, **Java**, **Spring Boot**, **Data Structures and Algorithms**, **System Design** and core CS subjects such as **Object Oriented Programming**, **Operating Systems**, **Database Management Systems** and **Computer Networks**.
 
 🔍 Always exploring ways to optimize performance, scale and stability!
 
