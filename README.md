@@ -11,7 +11,7 @@
 ⚡ Testing application throughput and latency performance  
 
 ### 🛠 Tech Stack
-- **Java | JavaScript | PostgreSQL**  
+- **Java | .NET | JavaScript | PostgreSQL**  
 
 ### 🚀 Interests  
 - **business and data applications**, **server tooling**, **pipelines** etc
