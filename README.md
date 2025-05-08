@@ -6,7 +6,7 @@
 
 🔗 Building performant and scalable systems
 
-☕️ Consuming REST APIs to do useful stuff
+☕️ Building and consuming REST APIs to do useful stuff
 
 ⚡ Testing application throughput and latency performance  
 
